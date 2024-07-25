@@ -1,7 +1,6 @@
 title: Kexin HUANG
 url: "https://kexinhuang19.github.io/"
 baseurl: "/researcher"
-remote_theme: ankitsultana/researcher@gem
 
 markdown: kramdown
 # ins_logo: "./bits-logo.png"
@@ -21,3 +20,5 @@ nav:
    link: "/researcher/"
  - name: "Resume"
    link: "https://github.com/KexinHUANG19/KexinHUANG19.github.io/resume.pdf"
+
+remote_theme: ankitsultana/researcher@gem
