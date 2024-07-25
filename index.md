@@ -5,8 +5,6 @@ layout: default
 ## About Me
 
 <br>
-<br>
-
 <img class="profile-picture" src="caasi.jpg">
 
 Hiiiii! I am **Kexin (Caasi) HUANG**, a first-year master's student in Computer Science at Fudan University, supervised by [Prof. Xipeng QIU](https://xpqiu.github.io/en.html). 
@@ -14,7 +12,6 @@ Before that, I served as a research assistant at Shanghai Artificial Intelligenc
 
 [Email](huangkx19@gmail.com) / [Google Scholar](https://scholar.google.com/citations?user=JDcYYZ4AAAAJ&hl) / [GitHub](https://github.com/KexinHUANG19) / [LinkedIn](https://www.linkedin.com/in/caasi-kexin-huang0426/) / [CV](resume.pdf)
 
-<br>
 <br>
 <br>
 
@@ -36,13 +33,10 @@ Yixu Wang, Yan Teng, **Kexin Huang**, Chengqi Lyu, Songyang Zhang, Wenwei Zhang,
 
 <br>
 <br>
-<br>
 
 ## Members
 
 <br>
-<br>
-
 <img class="profile-picture" src="Paopao.jpg" style="float: left; margin-right: 10px;"> **Paopao**  
 2-year-old British Shorthair  
 Bully at home, coward outside
