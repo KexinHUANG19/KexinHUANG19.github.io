@@ -4,6 +4,9 @@ layout: default
 
 ## About Me
 
+<br>
+<br>
+
 <img class="profile-picture" src="caasi.jpg">
 
 Hiiiii! I am **Kexin (Caasi) HUANG**, a first-year master's student in Computer Science at Fudan University, supervised by [Prof. Xipeng QIU](https://xpqiu.github.io/en.html). 
@@ -37,6 +40,8 @@ Yixu Wang, Yan Teng, **Kexin Huang**, Chengqi Lyu, Songyang Zhang, Wenwei Zhang,
 
 ## Members
 
+<br>
+<br>
 
 <img class="profile-picture" src="Paopao.jpg" style="float: left; margin-right: 10px;"> **Paopao**  
 2-year-old British Shorthair  
