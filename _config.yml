@@ -1,10 +1,10 @@
 title: Kexin HUANG
 url: "https://kexinhuang19.github.io/"
 baseurl: "/researcher"
-remote_theme: ankitsultana/researcher
+remote_theme: ankitsultana/researcher@gem
 
 markdown: kramdown
-#ins_logo: "./bits-logo.png"
+ins_logo: "./bits-logo.png"
 
 tracking_id: #
 
