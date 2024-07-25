@@ -4,7 +4,6 @@ layout: default
 
 ## About Me
 
-<br>
 <img class="profile-picture" src="caasi.jpg">
 
 Hiiiii! I am **Kexin (Caasi) HUANG**, a first-year master's student in Computer Science at Fudan University, supervised by [Prof. Xipeng QIU](https://xpqiu.github.io/en.html). 
