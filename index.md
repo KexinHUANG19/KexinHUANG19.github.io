@@ -11,6 +11,10 @@ Before that, I served as a research assistant at Shanghai Artificial Intelligenc
 
 [Email](huangkx19@gmail.com) / [Google Scholar](https://scholar.google.com/citations?user=JDcYYZ4AAAAJ&hl) / [GitHub](https://github.com/KexinHUANG19) / [LinkedIn](https://www.linkedin.com/in/caasi-kexin-huang0426/) / [CV](resume.pdf)
 
+<br>
+<br>
+<br>
+
 ## Selected Publications
 You can find the full list of papers at [Google Scholar](https://scholar.google.com/citations?user=JDcYYZ4AAAAJ&hl).  
 (\* denotes equal contribution)
@@ -32,7 +36,9 @@ Yixu Wang, Yan Teng, **Kexin Huang**, Chengqi Lyu, Songyang Zhang, Wenwei Zhang,
 <img class="profile-picture" src="Paopao.jpg" style="float: left; margin-right: 10px;"> **Paopao**  
 2-year-old British Shorthair  
 Bully at home, coward outside
-
+<br>
+<br>
+<br>
 <img class="profile-picture" src="Meimei.jpg" style="float: left; margin-right: 10px;"> **Meimei**  
 2-year-old Ragdoll  
 Graceful and poised, with a laidback vibe
