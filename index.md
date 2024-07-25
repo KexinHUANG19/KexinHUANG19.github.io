@@ -26,3 +26,13 @@ Tianle Gu, Zeyang Zhou, **Kexin Huang**, Dandan Liang, Yixu Wang, Haiquan Zhao, 
 * **Fake Alignment: Are LLMs Really Aligned Well?** <span style="color: #345772;">_(NAACL 24')_</span>    
 [Paper](https://aclanthology.org/2024.naacl-long.263/) / [GitHub](https://github.com/AIFlames/Fake-Alignment)  
 Yixu Wang, Yan Teng, **Kexin Huang**, Chengqi Lyu, Songyang Zhang, Wenwei Zhang, Xingjun Ma, Yu-Gang Jiang, Yu Qiao, Yingchun Wang
+
+
+## Members
+<img class="profile-picture" src="Paopao.jpg" style="float: left; margin-right: 10px;"> **Paopao**  
+2-year-old British Shorthair  
+Bully at home, coward outside
+
+<img class="profile-picture" src="Meimei.jpg" style="float: left; margin-right: 10px;"> **Meimei**  
+2-year-old Ragdoll  
+Graceful and poised, with a laidback vibe
