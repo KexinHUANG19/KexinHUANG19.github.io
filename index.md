@@ -42,8 +42,6 @@ Yixu Wang, Yan Teng, **Kexin Huang**, Chengqi Lyu, Songyang Zhang, Wenwei Zhang,
 Bully at home, coward outside
 
 <br>
-<br>
-<br>
 
 <img class="member-picture" src="Meimei.jpg" alt="Meimei"> 
 **Meimei**  
