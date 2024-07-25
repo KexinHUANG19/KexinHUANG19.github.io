@@ -18,7 +18,7 @@ sass:
 nav:
  - name: "About"
    link: "/researcher/"
- - name: "Resume"
-   link: "https://github.com/KexinHUANG19/KexinHUANG19.github.io/resume.pdf"
+ # - name: "Resume"
+ #   link: "https://github.com/KexinHUANG19/KexinHUANG19.github.io/resume.pdf"
 
 remote_theme: ankitsultana/researcher@gem
