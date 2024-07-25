@@ -51,5 +51,3 @@ Bully at home, coward outside
 Graceful and poised, with a laidback vibe
 
 <br>
-<br>
-<br>
