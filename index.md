@@ -49,3 +49,7 @@ Bully at home, coward outside
 <img class="profile-picture" src="Meimei.jpg" style="float: left; margin-right: 10px;"> **Meimei**  
 2-year-old Ragdoll  
 Graceful and poised, with a laidback vibe
+
+<br>
+<br>
+<br>
