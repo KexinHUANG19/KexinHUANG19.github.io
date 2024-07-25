@@ -36,7 +36,7 @@ Yixu Wang, Yan Teng, **Kexin Huang**, Chengqi Lyu, Songyang Zhang, Wenwei Zhang,
 ## Members
 
 <br>
-<img class="profile-picture" src="Paopao.jpg" style="float: left; margin-right: 10px;"> **Paopao**  
+<img class="profile-picture" src="Paopao.jpg" style="float: left; margin-right: 10px;" width="80"> **Paopao**  
 2-year-old British Shorthair  
 Bully at home, coward outside
 
@@ -44,7 +44,7 @@ Bully at home, coward outside
 <br>
 <br>
 
-<img class="profile-picture" src="Meimei.jpg" style="float: left; margin-right: 10px;"> **Meimei**  
+<img class="profile-picture" src="Meimei.jpg" style="float: left; margin-right: 10px;" width="80"> **Meimei**  
 2-year-old Ragdoll  
 Graceful and poised, with a laidback vibe
 
