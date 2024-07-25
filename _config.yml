@@ -22,3 +22,5 @@ nav:
  #   link: "https://github.com/KexinHUANG19/KexinHUANG19.github.io/resume.pdf"
 
 remote_theme: ankitsultana/researcher@gem
+plugins:
+  - jekyll-remote-theme
