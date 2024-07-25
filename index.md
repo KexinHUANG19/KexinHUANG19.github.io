@@ -18,7 +18,7 @@ Before that, I served as a research assistant at Shanghai Artificial Intelligenc
 You can find the full list of papers at [Google Scholar](https://scholar.google.com/citations?user=JDcYYZ4AAAAJ&hl).  
 (Listed in chronological order, with the most recent first.) (\* denotes equal contribution)
 
-* **ESC-Eval: Evaluating Emotion Support Conversations in Large Language Models**
+* **ESC-Eval: Evaluating Emotion Support Conversations in Large Language Models**  
 [Paper](https://arxiv.org/abs/2406.14952) / [GitHub](https://github.com/haidequanbu/ESC-Eval)  
 Haiquan Zhao, Lingyu Li, Shisong Chen, Shuqi Kong, Jiaan Wang, **Kexin Huang**, Tianle Gu, Yixu Wang, Dandan Liang, Zhixu Li, Yan Teng, Yanghua Xiao, Yingchun Wang
 
