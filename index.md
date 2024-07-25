@@ -16,13 +16,13 @@ You can find the full list of papers at [Google Scholar](https://scholar.google.
 (\* denotes equal contribution)
 
 * **MLLMGuard: A Multi-dimensional Safety Evaluation Suite for Multimodal Large Language Models**  
-\[[Paper](https://arxiv.org/abs/2406.07594)\] \[[GitHub](https://github.com/Carol-gutianle/MLLMGuard)\]   
+[Paper](https://arxiv.org/abs/2406.07594) / [GitHub](https://github.com/Carol-gutianle/MLLMGuard)   
 Tianle Gu, Zeyang Zhou, **Kexin Huang**, Dandan Liang, Yixu Wang, Haiquan Zhao, Yuanqi Yao, Xingge Qiao, Keqing Wang, Yujiu Yang, Yan Teng, Yu Qiao, Yingchun Wang
 
-* **Flames: Benchmarking Value Alignment of LLMs in Chinese** <span style="color: red;">[NAACL 24']</span>  
-\[[Paper](https://aclanthology.org/2024.naacl-long.256/)\] \[[GitHub](https://github.com/AIFlames/Flames)\] \[[OpenCompass](https://flames.opencompass.org.cn/leaderboard)\]  
+* **Flames: Benchmarking Value Alignment of LLMs in Chinese** <span style="color: #345772;">_(NAACL 24')_</span>  
+[Paper](https://aclanthology.org/2024.naacl-long.256/) / [GitHub](https://github.com/AIFlames/Flames) / [OpenCompass](https://flames.opencompass.org.cn/leaderboard)  
 **Kexin Huang\***, Xiangyang Liu\*, Qianyu Guo\*, Tianxiang Sun, Jiawei Sun, Yaru Wang, Zeyang Zhou, Yixu Wang, Yan Teng, Xipeng Qiu, Yingchun Wang, Dahua Lin
   
-* **Fake Alignment: Are LLMs Really Aligned Well?** _(NAACL 24')_  
-\[[Paper](https://aclanthology.org/2024.naacl-long.263/)\] \[[GitHub](https://github.com/AIFlames/Fake-Alignment)\]  
+* **Fake Alignment: Are LLMs Really Aligned Well?** <span style="color: #345772;">_(NAACL 24')_</span>    
+[Paper](https://aclanthology.org/2024.naacl-long.263/) / [GitHub](https://github.com/AIFlames/Fake-Alignment)  
 Yixu Wang, Yan Teng, **Kexin Huang**, Chengqi Lyu, Songyang Zhang, Wenwei Zhang, Xingjun Ma, Yu-Gang Jiang, Yu Qiao, Yingchun Wang
