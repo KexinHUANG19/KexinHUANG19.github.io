@@ -17,7 +17,7 @@ sass:
 
 nav:
  - name: "About"
-   link: "/researcher/"
+   link: ""
  # - name: "Resume"
  #   link: "https://github.com/KexinHUANG19/KexinHUANG19.github.io/resume.pdf"
 
