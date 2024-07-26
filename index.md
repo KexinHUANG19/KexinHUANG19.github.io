@@ -53,5 +53,7 @@ Bully at home, coward outside
 Graceful and poised, with a laidback vibe
 
 <br>
+<br>
+<br>
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=d5dce7&w=300&t=n&d=9zcDnUHk36-ZTTx5d-kVYjuF9H-D2VCDeywvhikny5Q&co=ffffff&ct=345772&cmo=93a5b4&cmn=718299'></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=dee4ed&w=468&t=tt&d=9zcDnUHk36-ZTTx5d-kVYjuF9H-D2VCDeywvhikny5Q&co=ffffff&ct=345772&cmo=b3c0ca&cmn=688299'></script>
