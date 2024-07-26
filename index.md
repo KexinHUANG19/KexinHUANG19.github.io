@@ -57,7 +57,6 @@ Graceful and poised, with a laidback vibe
 <br>
 
 
-<div class="center-text">
-    **Glad to See You Here:D**
-</div>
+<p style="text-align: center;">**Glad to See You Here:D**</p>
+
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=dee4ed&w=300&t=tt&d=9zcDnUHk36-ZTTx5d-kVYjuF9H-D2VCDeywvhikny5Q&co=ffffff&ct=345772&cmo=b3c0ca&cmn=688299'></script>
