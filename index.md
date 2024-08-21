@@ -14,7 +14,7 @@ Before that, I served as a research assistant at Shanghai Artificial Intelligenc
 <br>
 <br>
 
-## Selected Publications
+## Publications
 You can find the full list of papers at [Google Scholar](https://scholar.google.com/citations?user=JDcYYZ4AAAAJ&hl).  
 (Chronologically listed, most recent first. \* denotes equal contribution)
 
