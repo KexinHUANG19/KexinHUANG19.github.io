@@ -18,11 +18,11 @@ Before that, I served as a research assistant at Shanghai Artificial Intelligenc
 You can find the full list of papers at [Google Scholar](https://scholar.google.com/citations?user=JDcYYZ4AAAAJ&hl).  
 (Chronologically listed, most recent first. \* denotes equal contribution)
 
-* **ESC-Eval: Evaluating Emotion Support Conversations in Large Language Models**  
+* **ESC-Eval: Evaluating Emotion Support Conversations in Large Language Models**  <span style="color: #345772;">_(EMNLP 24')_</span>  
 [Paper](https://arxiv.org/abs/2406.14952) / [GitHub](https://github.com/haidequanbu/ESC-Eval)  
 Haiquan Zhao, Lingyu Li, Shisong Chen, Shuqi Kong, Jiaan Wang, **Kexin Huang**, Tianle Gu, Yixu Wang, Dandan Liang, Zhixu Li, Yan Teng, Yanghua Xiao, Yingchun Wang
 
-* **MLLMGuard: A Multi-dimensional Safety Evaluation Suite for Multimodal Large Language Models**  
+* **MLLMGuard: A Multi-dimensional Safety Evaluation Suite for Multimodal Large Language Models** <span style="color: #345772;">_(NeurIPS 24')_</span>  
 [Paper](https://arxiv.org/abs/2406.07594) / [GitHub](https://github.com/Carol-gutianle/MLLMGuard)   
 Tianle Gu, Zeyang Zhou, **Kexin Huang**, Dandan Liang, Yixu Wang, Haiquan Zhao, Yuanqi Yao, Xingge Qiao, Keqing Wang, Yujiu Yang, Yan Teng, Yu Qiao, Yingchun Wang
 
