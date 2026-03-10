@@ -7,19 +7,31 @@ layout: default
 <img class="profile-picture" src="caasi.jpg">
 
 Hi! I am **Kexin (Caasi) HUANG**, a second-year master's student in Computer Science at Fudan University, supervised by [Prof. Xipeng QIU](https://xpqiu.github.io/en.html). 
-Before that, I served as a research assistant at Shanghai Artificial Intelligence Laboratory, and I received my bachelor's degree in Computer Science at Fudan University. My current research interest primarily focuses on **Controllable Text-to-Speech**.
+Before that, I served as a research assistant at Shanghai Artificial Intelligence Laboratory, and I received my bachelor's degree in Computer Science at Fudan University. My current research interest primarily focuses on **Multimodal LLM**.
+
+🙋 Expected to graduate in 2027, feel free to connect!
+
 
 [Email](huangkx19@gmail.com) / [Google Scholar](https://scholar.google.com/citations?user=JDcYYZ4AAAAJ&hl) / [GitHub](https://github.com/KexinHUANG19) / [LinkedIn](https://www.linkedin.com/in/caasi-kexin-huang0426/)
 
 <br>
 <br>
 
-## Publications
+## Publications & Projects
 You can find the full list of papers at [Google Scholar](https://scholar.google.com/citations?user=JDcYYZ4AAAAJ&hl).  
 (Chronologically listed, most recent first. \* denotes equal contribution)
 
+* **MOSS-VoiceGenerator**  
+[Website](http://mosi-ai.com/models/moss-voice-generator) / [GitHub](https://github.com/OpenMOSS/MOSS-TTS/blob/main/docs/moss_voice_generator_model_card.md) / [Huggingface](https://huggingface.co/OpenMOSS-Team/MOSS-VoiceGenerator)   
+Core Contributor
+
+* **WESR: Scaling and Evaluating Word-level Event-Speech Recognition**  <span style="color: #345772;">_(arXiv 26')_</span>   
+[Paper](https://arxiv.org/pdf/2601.04508) / [GitHub](https://github.com/Cr-Fish/WESR)  
+Chenchen Yang, **Kexin Huang**, Liwei Fan, Qian Tu, Botian Jiang, Dong Zhang, Linqi Yin, Shimin Li, Zhaoye Fei, Qinyuan Cheng, Xipeng Qiu
+
+
 * **InstructTTSEval: Benchmarking Complex Natural-Language Instruction Following in Text-to-Speech Systems**  <span style="color: #345772;">_(arXiv 25')_</span>  
-[Paper](https://arxiv.org/pdf/2506.16381) / [GitHub](https://github.com/KexinHUANG19/InstructTTSEval)  
+[Paper](https://arxiv.org/pdf/2506.16381) / [GitHub](https://github.com/KexinHUANG19/InstructTTSEval)   
 **Kexin Huang**, Qian Tu, Liwei Fan, Chenchen Yang, Dong Zhang, Shimin Li, Zhaoye Fei, Qinyuan Cheng, Xipeng Qiu
 
 <br>
@@ -30,7 +42,7 @@ You can find the full list of papers at [Google Scholar](https://scholar.google.
 <br>
 <img class="member-picture" src="Paopao.jpg" alt="Paopao"> 
 **Paopao**   
-3-year-old British Shorthair  
+4-year-old British Shorthair  
 Bully at home, coward outside
 
 <br>
