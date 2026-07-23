@@ -25,7 +25,7 @@ You can find the full list of papers at [Google Scholar](https://scholar.google.
 [Website](http://mosi-ai.com/models/moss-voice-generator) / [GitHub](https://github.com/OpenMOSS/MOSS-TTS/blob/main/docs/moss_voice_generator_model_card.md) / [Huggingface](https://huggingface.co/OpenMOSS-Team/MOSS-VoiceGenerator)   
 Core Contributor
 
-* **WESR: Scaling and Evaluating Word-level Event-Speech Recognition**  <span style="color: #345772;">_(arXiv 26')_</span>   
+* **WESR: Scaling and Evaluating Word-level Event-Speech Recognition**  <span style="color: #345772;">_(ACL 26' Findings)_</span>   
 [Paper](https://arxiv.org/pdf/2601.04508) / [GitHub](https://github.com/Cr-Fish/WESR)  
 Chenchen Yang, **Kexin Huang**, Liwei Fan, Qian Tu, Botian Jiang, Dong Zhang, Linqi Yin, Shimin Li, Zhaoye Fei, Qinyuan Cheng, Xipeng Qiu
 
@@ -49,7 +49,7 @@ Bully at home, coward outside
 
 <img class="member-picture" src="Meimei.jpg" alt="Meimei"> 
 **Meimei**  
-3-year-old Ragdoll  
+4-year-old Ragdoll  
 Graceful and poised, with a laidback vibe
 
 <br>
